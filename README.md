@@ -30,7 +30,7 @@
 
 ## III. PROCESS
 1. Check the data for errors.
-2. Choose the tools: MySQL and Jupyter Notebook (Python)
+2. Choose the tools: Jupyter Notebook (Python)
 3. Transform the data into the right type.
 4. Document the cleaning process.
 
