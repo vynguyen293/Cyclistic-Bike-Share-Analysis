@@ -30,7 +30,7 @@
 
 ## III. PROCESS
 1. Check the data for errors.
-2. Choose the tools: Jupyter Notebook (Python)
+2. Choose the tools: Jupyter Notebook (Python) and Tableau
 3. Transform the data into the right type.
 4. Document the cleaning process.
 
@@ -44,7 +44,7 @@ Source of data: https://divvy-tripdata.s3.amazonaws.com/index.html
 3. Perform calculations.
 4. Identify trends and relationships.
 
-=> A summary of my analysis.
+=> A summary of analysis.
 
 ## V. SHARE
 1. Determine the best way to share my findings.
